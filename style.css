@@ -1,0 +1,21 @@
+@media screen and ( max-width: 1024px )
+{
+    img.responsive 
+    {
+        width: 200px;
+    }
+}
+
+@media screen and ( min-width: 1025px )
+{
+    img.responsive 
+    {
+        width: 1000px;
+    }
+}
+
+
+img.responsive
+{
+    height: auto;
+}
